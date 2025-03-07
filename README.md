@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# MentalMate Project 
+
+MentalMate is a mental health support platform that utilizes OpenAI's API and ChatGPT 4o-mini model to facilitate meaningful conversations, provide emotional support, and enhance well-being. Along with AI-driven chat, it includes features such as:
+
+Voiced Conversation -  Have real-time, spoken interactions with the AI for a more natural and comforting experience.
+Journaling – Privately reflect on thoughts and emotions with a secure digital journal.
+Mood Tracking – Log daily moods to identify patterns and improve mental well-being.
+
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
